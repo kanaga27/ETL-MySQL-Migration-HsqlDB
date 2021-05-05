@@ -1,0 +1,13 @@
+2021/05/05 17:45:13 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2021/05/05 17:45:21 - Spoon - Running transformation using the Kettle execution engine
+2021/05/05 17:45:21 - Spoon - Transformation opened.
+2021/05/05 17:45:21 - Spoon - Launching transformation [Music_App_Migration_MySQL]...
+2021/05/05 17:45:21 - Spoon - Started the transformation execution.
+2021/05/05 17:45:21 - Music_App_Migration_MySQL - Dispatching started for transformation [Music_App_Migration_MySQL]
+2021/05/05 17:45:22 - Table output.0 - Connected to database [music_hypersonic] (commit=1000)
+2021/05/05 17:45:22 - Music Input Data.0 - Finished reading query, closing connection.
+2021/05/05 17:45:22 - Filter Null Level.0 - Finished processing (I=0, O=0, R=25, W=25, U=0, E=0)
+2021/05/05 17:45:22 - Music Input Data.0 - Finished processing (I=25, O=0, R=0, W=25, U=0, E=0)
+2021/05/05 17:45:22 - Replace Null Value with Begineer in Level Column.0 - Finished processing (I=0, O=0, R=25, W=25, U=0, E=0)
+2021/05/05 17:45:22 - Table output.0 - Finished processing (I=0, O=25, R=25, W=25, U=0, E=0)
+2021/05/05 17:45:22 - Spoon - The transformation has finished!!
